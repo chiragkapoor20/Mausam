@@ -1,0 +1,170 @@
+{
+    "summer":[
+        {
+            "title": "Lemonade",
+            "icon": "https://www.simplyrecipes.com/thmb/eRUtpwTXFtCiVgycyuqXJc_OPxI=/640x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2006__06__lemonade-640-dm-845dfef55a6b4d039458926a6ca40d5b.jpg",
+            "recipe": "https://www.simplyrecipes.com/recipes/perfect_lemonade/",
+            "desc": "Lemonade: sugar, water, lemon juice. Easy, right?"
+        },
+        {
+            "title": "Rooh Afza",
+            "icon": "https://www.spiceupthecurry.com/wp-content/uploads/2014/04/rooh-afza-milkshake-recipe-summer-drink-3.jpg",
+            "recipe": "https://www.spiceupthecurry.com/rooh-afza-milkshake-recipe-summer-cold-drink/",
+            "desc": "Well, it is very popular summer cooling drink that every Indian has tried. If not then you must."
+        },
+        {
+            "title": "Punjabi Style Boondi Kadhi",
+            "icon": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2017/31-march/Boondi_Kadhi_Recipe_Spicy_yogurt_with_boondi_-3.jpg",
+            "recipe": "https://www.archanaskitchen.com/methi-daana-boondi-kadhi-recipe",
+            "desc": "This is a yogurt based side dish made with curd and gram flour."
+        },
+        {
+            "title": "Mango Custard",
+            "icon": "https://pepkitchen.com/wp-content/uploads/2018/01/upload_IMG_0952.JPG.jpg",
+            "recipe": "https://pepkitchen.com/recipe/mango-custard/",
+            "desc": "Custard is very refreshing and is packed with the goodness of milk which has calcium and protein. It is popular in any age group."
+        },
+        {
+            "title": "VEGAN CAESAR SALAD",
+            "icon": "https://simple-veganista.com/wp-content/uploads/2019/03/best-vegan-caesar-salad-4jpg.webp",
+            "recipe": "https://simple-veganista.com/vegan-caesar-salad/",
+            "desc": "Vegan Caesar Salad features a homemade rich and creamy roasted garlic Caesar Dressing, fresh romaine, crispy chickpea croutons, almond parmesan, and avocado for the most amazing vegan salad!"
+        },
+        {
+            "title": "SIMPLE LEMON PASTA",
+            "icon": "https://i2.wp.com/simple-veganista.com/wp-content/uploads/2012/09/best-garlic-lemon-pasta.jpg",
+            "recipe": "https://simple-veganista.com/simple-lemon-pasta/",
+            "desc": "Simple Lemon Pasta features tender pasta tossed with a buttery, garlic lemon sauce, red pepper flakes, and parsley for a delicious quick and easy vegan pasta dish!"
+        },
+        {
+            "title": "VEGAN QUESO",
+            "icon": "https://i2.wp.com/simple-veganista.com/wp-content/uploads/2020/09/best-vegan-queso-4.jpg",
+            "recipe": "https://simple-veganista.com/vegan-queso/",
+            "desc": "Vegan Queso is a quick and easy dip made with cashews, green chilies, nutritional yeast and warm spices for a deliciously thick, creamy condiment to pair with tortilla chips or veggie sticks!"
+        }
+    ],
+    "rain":[
+        {
+            "title": "Veg Pakora/Snacks",
+            "icon": "https://www.vegrecipesofindia.com/wp-content/uploads/2016/09/mix-veg-pakoda-recipe.jpg",
+            "recipe": "https://www.vegrecipesofindia.com/mix-veg-pakora-recipe/",
+            "desc": "Pakora are a delicious Indian crisp fried snack made with gram flour, spices & any main ingredient like onion, paneer or veggies."
+        },
+        {
+            "title": "Samosa",
+            "icon": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/08/Best-Indian-Punjabi-Samosa-Recipe.jpg",
+            "recipe": "https://www.indianhealthyrecipes.com/samosa-recipe-make-samosa/",
+            "desc": "Samosa is a deep fried pastry with a spiced filling usually made with potatoes, spices and herbs."
+        },
+        {
+            "title": "Masala Chai(tea)",
+            "icon": "https://images.news18.com/ibnlive/uploads/2015/07/shutterstock_284446268-1.jpg",
+            "recipe": "https://www.indianhealthyrecipes.com/masala-tea-chai/",
+            "desc": "It is one of the favorite drinks among Indians especially during the monsoon and cold winters."
+        },
+        {
+            "title": "Jalebi",
+            "icon": "https://images.news18.com/ibnlive/uploads/2015/07/shutterstock_259664951-1.jpg?impolicy=website&width=0&height=0",
+            "recipe": "https://recipes.timesofindia.com/recipes/jalebi/rs53099699.cms",
+            "desc": "This crispy and crunchy dessert is dipped in sugar syrup and is loaded with flavours."
+        },
+        {
+            "title": "Roasted Chicken",
+            "icon": "https://images.news18.com/ibnlive/uploads/2015/07/shutterstock_235889227-1.jpg",
+            "recipe": "https://www.allrecipes.com/recipe/83557/juicy-roasted-chicken/",
+            "desc": "Roast chicken is chicken prepared as food by roasting whether in a home kitchen, over a fire, or with a rotisserie (rotary spit)."
+        },
+        {
+            "title": "Vegetable Soup",
+            "icon": "https://www.vegrecipesofindia.com/wp-content/uploads/2016/12/clear-veg-soup.jpg",
+            "recipe": "https://www.vegrecipesofindia.com/clear-veg-soup-recipe/",
+            "desc": "A Vegetable Soup is so healthy and there are so many ways you can make them."
+        },
+        {
+            "title": "Momos",
+            "icon": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/07/veg-momos-recipe.jpg",
+            "recipe": "https://www.vegrecipesofindia.com/veg-momos-recipe-vegetable-momos/",
+            "desc": "Momos are a popular street food in northern parts of India. These are also known as Dim Sum and are basically dumplings made from flour with a savory stuffing."
+        },
+        {
+            "title": "Aloo Tikki",
+            "icon": "https://www.vegrecipesofindia.com/wp-content/uploads/2009/08/aloo-tikki.jpg",
+            "recipe": "https://www.vegrecipesofindia.com/aloo-tikki-aloo-pattice-recipe-made-from-leftover-potatoes/",
+            "desc": "In Hindi language, aloo are potatoes and tikki are patties. So these are potato patties made the Indian way – spiced, herby and delicious."
+        },
+        {
+            "title": "Papdi Chaat",
+            "icon": "https://www.vegrecipesofindia.com/wp-content/uploads/2011/11/papdi-chaat-recipe.jpg",
+            "recipe": "https://www.vegrecipesofindia.com/papdi-chaat-delhi-papdi-chaat-recipe/",
+            "desc": "Papdi chaat is a popular North Indian street food made with papdi (fried flour crispies), boiled chickpeas, potatoes, pakoris (fried black gram fritters) and curd."
+        },
+        {
+            "title": "Paneer Tikka",
+            "icon": "https://www.vegrecipesofindia.com/wp-content/uploads/2011/10/grilled-paneer-tikka.jpg",
+            "recipe": "https://www.vegrecipesofindia.com/paneer-tikka-recipe-paneer-tikka/",
+            "desc": "Paneer Tikka is a popular and delicious tandoori snack where paneer (Indian cottage cheese cubes) are marinated in a spiced yogurt-based marinade, arranged on skewers and grilled in the oven."
+        }
+    ],
+    "winter":[
+        {
+            "title": "Bajra Roti",
+            "icon": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/03/bajra-roti.jpg",
+            "recipe": "https://www.vegrecipesofindia.com/bajra-roti-bajra-bhakri/",
+            "desc": "Bajra roti also known as bajra bhakri is a gluten-free flatbread made from millet flour or bajra flour. Low-Fat and Vegan."
+        },
+        {
+            "title": "Sarson Ka Saag",
+            "icon": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/12/sarson-da-saag.jpg",
+            "recipe": "https://www.vegrecipesofindia.com/sarson-ka-saag/",
+            "desc": "One of the Indian recipe that is a labor of love, time and patience. Sarson is the hindi/Punjabi word for Mustard and Saag means Greens."
+        },
+        {
+            "title": "Undhiyu",
+            "icon": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/04/undhiyu-recipe.jpg",
+            "recipe": "https://www.vegrecipesofindia.com/undhiyu-recipe-gujarati-undhiyu-recipe/",
+            "desc": "This is an easy and super delicious surti undhiyu that does not take much time."
+        },
+        {
+            "title": "Kashmiri Dum Aloo",
+            "icon": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/04/kashmiri-dum-aloo-recipe1.jpg",
+            "recipe": "https://www.vegrecipesofindia.com/kashmiri-dum-aloo/",
+            "desc": "Dum Aloo is a delicious recipe of baby potatoes cooked in a gravy or sauce. This dish is made in various ways in Indian Cuisine."
+        },
+        {
+            "title": "Rasam",
+            "icon": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/02/rasam-recipe-1.jpg",
+            "recipe": "https://www.vegrecipesofindia.com/easy-rasam-recipe-rasam-recipes/",
+            "desc": "This spiced, tangy, and sour rasam is sure to warm your palate and heal your cold if you have any."
+        },
+        {
+            "title": "Instant Pot Pulao",
+            "icon": "https://www.vegrecipesofindia.com/wp-content/uploads/2010/06/instant-pot-pulao.jpg",
+            "recipe": "https://www.vegrecipesofindia.com/instant-pot-pulao/",
+            "desc": "This is a quick and one-pot method to make mix vegetable pulao in the instant pot."
+        },
+        {
+            "title": "Baingan Bharta",
+            "icon": "https://www.vegrecipesofindia.com/wp-content/uploads/2010/08/baingan-bharta-recipe21.jpg",
+            "recipe": "https://www.vegrecipesofindia.com/baingan-bharta-recipe-punjabi-baingan-bharta-recipe/",
+            "desc": "This baingan bharta is a simple and easy to prepare recipe without the use of many spices."
+        },
+        {
+            "title": "Vegetable Soup",
+            "icon": "https://www.vegrecipesofindia.com/wp-content/uploads/2016/12/clear-veg-soup.jpg",
+            "recipe": "https://www.vegrecipesofindia.com/clear-veg-soup-recipe/",
+            "desc": "A Vegetable Soup is so healthy and there are so many ways you can make them."
+        },
+        {
+            "title": "Methi Malai Paneer",
+            "icon": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/04/methi-malai-paneer-recipe.jpg",
+            "recipe": "https://www.vegrecipesofindia.com/methi-malai-paneer-recipe/",
+            "desc": "It is a creamy, mildly sweet gravy with hints of bitterness from fenugreek leaves."
+        },
+        {
+            "title": "Chilli Paneer",
+            "icon": "https://www.vegrecipesofindia.com/wp-content/uploads/2017/04/chilli-paneer-restaurant-style.jpg",
+            "recipe": "https://www.vegrecipesofindia.com/chilli-paneer-restaurant-style-recipe/",
+            "desc": "Chilli Paneer is one of the popular recipe from the Indian Chinese cuisine. There are many ways of making it."
+        }
+    ]
+}

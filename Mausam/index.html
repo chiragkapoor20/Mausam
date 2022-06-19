@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="icon.png" type="image/icon type">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <link rel="stylesheet" href="index.css">
+    <title>Mausam</title>
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-light bg-dark">
+        <div class="container-fluid justify-content-center">
+            <a class="navbar-brand text-danger">MAUSAM</a>
+        </div>
+    </nav>
+
+    <!-- Main -->
+    <div class="container mt-4">
+        <div class="input-group mb-4">
+            <input type="text" id='place' class="form-control" placeholder="Please enter your City name!"
+                aria-label="City name" aria-describedby="button-addon2">
+            <button class="btn btn-outline-secondary" type="button" id="button-addon2" onclick="fetch()">Search</button>
+        </div>
+    </div>
+
+    <div id="temp-box"></div>
+
+
+    <!-- Use a web or live server to see food items -->
+    <div class="container my-4" id="food-reccom">
+
+        <h1 class="display-4 mb-5" id="food-head"></h1>
+
+        <div class="d-flex flex-wrap gap-3" id="food-items"></div>
+
+    </div>
+
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="jquery.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+</body>
+
+<!-- Optional JavaScript -->
+<script src="index.js"></script>
+
+</html>
